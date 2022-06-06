@@ -17,6 +17,11 @@ body{
      width: 100px;
 }
 
+.fa-solid{
+     color: #000;
+     font-size: 30px;
+}
+
 .navbar{
      background-color: white;
 }
@@ -79,7 +84,7 @@ body{
 }
 
 .photo{
-     width: 35px;
+     width: 45px;
      border-radius: 50%;
 }
 
